@@ -20,12 +20,12 @@ Birthday | Favorite Colour | Favorite Food | Pinneapple on pizza |
 ## Hobbies
 
 * Gaming
-  *Strategy
-  *RPG
-  *Shooter
+  * Strategy
+  * RPG
+  * Shooter
 * Movies
-  *Action
-  *Mysteries
+  * Action
+  * Mysteries
   
 ## You can alwys count on me when...
 
