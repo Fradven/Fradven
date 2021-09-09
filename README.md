@@ -6,7 +6,7 @@
 ***
 
 Photo : 
-[](me.jpg)
+![alt text](me.jpg "Logo Title Text 1")
 
 ***
 
@@ -38,7 +38,7 @@ I was once stuck in traffic for 6 hours in Bangkok the day after Chrismas. Since
  #### TL;DR
 Got stuck in traffic and went to get food by foot and the car didn't move.
 
-[<<previous]() || [Frédéric Van Overmeire](#) || [next>>]()
+[<<previous](https://github.com/FrancisFrancois/mark-down-challenge/blob/main/README.md) || [Frédéric Van Overmeire](#) || [next>>](https://github.com/JeanChristopheM/markdown-challenge)
 
 
 
