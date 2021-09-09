@@ -12,9 +12,9 @@ Photo :
 
 ## Me, in one sentence
 
-Birthday | Favorite colour | Favorite Food | Pinneapple on pizza |
---- | --- | --- |
-*08/07* | *Green* | *Omelette with rice* | *no comment* |
+Birthday | Favorite Colour | Favorite Food | Pinneapple on pizza | 
+--- | --- | --- | --- |
+*08/07* | *Green* | *Omelette* | *No Comment* | 
 
 
 ## Hobbies
