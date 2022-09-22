@@ -1,15 +1,5 @@
 # Frédéric Van Overmeire
 
->_Never take second best_
-#### - Hanzo
-
-***
-
-Photo : 
-![alt text]("Logo Title Text 1")
-
-***
-
 ## Me, in one sentence
 
 I have studied at Becode for 11 month and I'm currently in an intership.
@@ -34,6 +24,16 @@ Birthday | Favorite Colour | Favorite Food | Pinneapple on pizza |
 * Movies
   * Action
   * Mysteries
+
+ >_Never take second best_
+#### - Hanzo
+
+***
+
+Photo : 
+![alt text]("Logo Title Text 1")
+
+***
 
 [<<previous](https://github.com/FrancisFrancois/mark-down-challenge/blob/main/README.md) || [Frédéric Van Overmeire](#) || [next>>](https://github.com/JeanChristopheM/markdown-challenge)
 
