@@ -12,6 +12,14 @@ Photo :
 
 ## Me, in one sentence
 
+I have studied at Becode for 11 month and I'm currently in an intership.
+
+## technologies
+
+* React
+* PHP
+* Javascript
+
 Birthday | Favorite Colour | Favorite Food | Pinneapple on pizza | 
 --- | --- | --- | --- |
 *08/07* | *Green* | *Omelette* | *No Comment* | 
