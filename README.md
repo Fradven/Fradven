@@ -28,8 +28,6 @@ Birthday | Favorite Colour | Favorite Food | Pinneapple on pizza |
  >_Never take second best_
 #### - Hanzo
 
-***
-
 
 [<<previous](https://github.com/FrancisFrancois/mark-down-challenge/blob/main/README.md) || [Frédéric Van Overmeire](#) || [next>>](https://github.com/JeanChristopheM/markdown-challenge)
 
