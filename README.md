@@ -30,10 +30,6 @@ Birthday | Favorite Colour | Favorite Food | Pinneapple on pizza |
 
 ***
 
-Photo : 
-![alt text]("Logo Title Text 1")
-
-***
 
 [<<previous](https://github.com/FrancisFrancois/mark-down-challenge/blob/main/README.md) || [Frédéric Van Overmeire](#) || [next>>](https://github.com/JeanChristopheM/markdown-challenge)
 
