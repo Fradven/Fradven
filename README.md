@@ -16,7 +16,7 @@ I have studied at Becode for 11 month and I'm currently in an intership.
 
 ## technologies
 
-* React
+* React (typescript)
 * PHP
 * Javascript
 
